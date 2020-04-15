@@ -121,53 +121,5 @@
     ],
     "doc": []
   },
-  {
-    "id": "5",
-    "name": "Jain James",
-    "title": "Idea Title 1",
-    "date": "08/03/2020",
-    "description": " including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees",
-    "clarification": [
-      {
-        "id": "1",
-        "content": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
-      },
-      {
-        "id": "2",
-        "content": "A purple patch is an over-written passage in which the writer has strained too hard to achieve an impressive effect, by elaborate figures or other means."
-      },
-      {
-        "id": "3",
-        "content": "ersonification occurs when a thing or abstraction is represented as a person, in literature or art, as an anthropomorphic metaphor."
-      }
-    ],
-    "images": [
-      {
-        "id": "1",
-        "Link": "https://images.unsplash.com/photo-1538032746644-0212e812a9e7?auto=format&fit=crop&w=400&h=250&q=60"
-      },
-      {
-        "id": "2",
-        "Link": "https://images.unsplash.com/photo-1518732714860-b62714ce0c59?auto=format&fit=crop&w=400&h=250&q=60"
-      },
-      {
-        "id": "2",
-        "Link": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=400&h=250&q=80"
-      }
-    ],
-    "doc": [
-      {
-        "id": "1",
-        "Link": "https://www.shutterstock.com/image-photo/competition-forest-trees-sunlight-necessary-sustain-1186179847"
-      },
-      {
-        "id": "3",
-        "Link": "https://www.shutterstock.com/image-photo/competition-forest-trees-sunlight-necessary-sustain-1186179847"
-      },
-      {
-        "id": "2",
-        "Link": "https://www.shutterstock.com/image-photo/competition-forest-trees-sunlight-necessary-sustain-1186179847"
-      }
-    ]
-  }
+ 
 ]
